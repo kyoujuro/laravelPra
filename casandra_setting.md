@@ -1,0 +1,5 @@
+#casandra setting
+
+```shell
+$cqlsh
+```
